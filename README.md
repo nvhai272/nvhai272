@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nvhai272
+- 👋 Hi, I’m Nguyen Van Hai
 - 👀 I want to make friends to share and learn more
 - 🌱 I want to be a Fullstack developer
 - 💞️ I’m alone
