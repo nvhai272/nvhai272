@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nguyen Van Hai
 - 👀 I want to make friends to share and learn more
-- 🌱 I want to be a Fullstack developer
+- 🌱 I want to be a Fullstack Developer
 - 💞️ I’m alone
 - 📫 Email: nvhai272@gmail.com
 - ⚡ Don't worry about others, mind your own business.
