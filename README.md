@@ -1,13 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Hải Nguyễn</h1>
-<h3 align="center">Fullstack Developer · PHP / Laravel · Python / FastAPI · Vue · React</h3>
 
 <p align="center">
-  <a href="https://github.com/nvhai272"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=1+brain%2C+2+hands%2C+3+seconds+to+decide;Building+web+apps+end-to-end;Laravel+%7C+FastAPI+%7C+Vue+%7C+React" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-  <a href="https://nvhai272.github.io"><img src="https://img.shields.io/badge/Portfolio-nvhai272.github.io-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/📍-Hanoi,%20Vietnam-334155?style=for-the-badge" />
+  <a href="https://github.com/nvhai272"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=If+you're+not+good+enough%2C+you+have+to+work+harder" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -16,8 +10,6 @@
 
 - 💻 Fullstack developer — building both **backend** (PHP/Laravel, Python/FastAPI) and **frontend** (Vue, React, TypeScript)
 - 🤖 Leveraging AI to ship faster, write cleaner code and focus on solving real problems
-- 🌱 Currently building **TravelPad** — a community travel handbook
-- ⚡ Motto: *1 brain, 2 hands, 3 seconds to decide*
 
 ### 🛠️ Tech Stack
 
