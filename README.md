@@ -1,4 +1,4 @@
-<h1 align="center">Xin chào 👋, mình là Hải Nguyễn</h1>
+<h1 align="center">Hi there 👋, I'm Hải Nguyễn</h1>
 <h3 align="center">Fullstack Developer · PHP / Laravel · Python / FastAPI · Vue · React</h3>
 
 <p align="center">
@@ -7,17 +7,17 @@
 
 <p align="center">
   <a href="https://nvhai272.github.io"><img src="https://img.shields.io/badge/Portfolio-nvhai272.github.io-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/📍-Hà%20Nội,%20Việt%20Nam-334155?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍-Hanoi,%20Vietnam-334155?style=for-the-badge" />
 </p>
 
 ---
 
-### 🙋‍♂️ Về mình
+### 🙋‍♂️ About Me
 
-- 💻 Fullstack developer — làm cả **backend** (PHP/Laravel, Python/FastAPI) lẫn **frontend** (Vue, React, TypeScript)
-- 🤖 Tận dụng AI để code nhanh hơn, gọn hơn và tập trung vào giải quyết bài toán
-- 🌱 Đang xây dựng **TravelPad** — sổ tay du lịch cộng đồng
-- ⚡ Phương châm: *1 brain, 2 hands, 3 seconds to decide*
+- 💻 Fullstack developer — building both **backend** (PHP/Laravel, Python/FastAPI) and **frontend** (Vue, React, TypeScript)
+- 🤖 Leveraging AI to ship faster, write cleaner code and focus on solving real problems
+- 🌱 Currently building **TravelPad** — a community travel handbook
+- ⚡ Motto: *1 brain, 2 hands, 3 seconds to decide*
 
 ### 🛠️ Tech Stack
 
@@ -39,13 +39,13 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode,postman&theme=dark" />
 </p>
 
-### 🚀 Dự án nổi bật
+### 🚀 Featured Projects
 
-| Dự án | Mô tả | Công nghệ |
+| Project | Description | Tech |
 |---|---|---|
-| [**TravelPad**](https://github.com/nvhai272/travelpad) | Sổ tay du lịch cộng đồng — chia sẻ lịch trình, ghi chú, địa điểm | TypeScript |
-| [**ai-code-kit**](https://github.com/nvhai272/ai-code-kit) | Bộ công cụ hỗ trợ code cùng AI | Shell |
-| [**Portfolio**](https://github.com/nvhai272/nvhai272.github.io) | Trang giới thiệu cá nhân | Vue |
+| [**TravelPad**](https://github.com/nvhai272/travelpad) | Community travel handbook — share itineraries, notes and places | TypeScript |
+| [**ai-code-kit**](https://github.com/nvhai272/ai-code-kit) | Toolkit for coding with AI | Shell |
+| [**Portfolio**](https://github.com/nvhai272/nvhai272.github.io) | Personal portfolio website | Vue |
 
 ### 📊 GitHub Stats
 
@@ -60,4 +60,4 @@
 
 ---
 
-<p align="center">⭐ Cảm ơn bạn đã ghé thăm! Liên hệ qua <a href="https://nvhai272.github.io">portfolio</a> của mình.</p>
+<p align="center">⭐ Thanks for stopping by! Feel free to reach out via my <a href="https://nvhai272.github.io">portfolio</a>.</p>
