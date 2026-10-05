@@ -27,9 +27,3 @@
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark" /> <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" />
-
-### Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvhai272&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
