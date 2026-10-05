@@ -1,55 +1,40 @@
-<h1 align="center">Hi there 👋, I'm Hải Nguyễn</h1>
+<h1 align="center">Hải Nguyễn</h1>
 
 <p align="center">
   <a href="https://github.com/nvhai272"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=If+you're+not+good+enough%2C+you+have+to+work+harder" alt="Typing SVG" /></a>
 </p>
 
----
+### About Me
 
-### 🙋‍♂️ About Me
+- Fullstack developer
+- Leveraging AI to ship faster, write cleaner code and focus on solving real problems
+- Portfolio: [nvhai272.github.io](https://nvhai272.github.io)
 
-- 💻 Fullstack developer — building both **backend** (PHP/Laravel, Python/FastAPI) and **frontend** (Vue, React, TypeScript)
-- 🤖 Leveraging AI to ship faster, write cleaner code and focus on solving real problems
-
-### 🛠️ Tech Stack
-
-**Backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,mysql,postgres,redis&theme=dark" />
-</p>
+### Tech Stack
 
 **Frontend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vue,react,ts,js,html,css,tailwind,vite&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=vue,react,tailwind,bootstrap,vite&theme=dark" />
 
-**Tools & DevOps**
+**Backend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode,postman&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=laravel,fastapi,spring,nginx&theme=dark" />
 
-### 🚀 Featured Projects
+**Database**
 
-| Project | Description | Tech |
-|---|---|---|
-| [**TravelPad**](https://github.com/nvhai272/travelpad) | Community travel handbook — share itineraries, notes and places | TypeScript |
-| [**ai-code-kit**](https://github.com/nvhai272/ai-code-kit) | Toolkit for coding with AI | Shell |
-| [**Portfolio**](https://github.com/nvhai272/nvhai272.github.io) | Personal portfolio website | Vue |
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,sqlserver,redis&theme=dark" />
 
-### 📊 GitHub Stats
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark" /> <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" />
+
+### Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nvhai272&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvhai272&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nvhai272&theme=tokyonight&hide_border=true" />
-</p>
+**Recent commits**
 
----
-
-<p align="center">⭐ Thanks for stopping by! Feel free to reach out via my <a href="https://nvhai272.github.io">portfolio</a>.</p>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
