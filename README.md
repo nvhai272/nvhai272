@@ -10,14 +10,6 @@
   <img width="100%" src="./assets/whoami.svg" alt="whoami" />
 </p>
 
-<!-- ============ STATS ============ -->
-<h3 align="center"><code>nvhai272@github:~$ ./stats.sh</code></h3>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=nvhai272&theme=dark&background=0d1117&border=30363d&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvhai272&layout=compact&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&border_color=30363d&langs_count=6" alt="Top languages" />
-</p>
-
 <!-- ============ STACK ============ -->
 <h3 align="center"><code>nvhai272@github:~$ cat stack.txt</code></h3>
 
