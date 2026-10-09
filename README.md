@@ -17,4 +17,3 @@
   <img src="https://komarev.com/ghpvc/?username=nvhai272&style=for-the-badge&color=39d353&label=PROFILE+VIEWS" />
 </p>
 
-<p align="center"><code>nvhai272@github:~$ <b>█</b></code></p>
