@@ -8,7 +8,7 @@ import base64, re, urllib.request
 SKILL = "https://skillicons.dev/icons?theme=dark&i={}"
 ROWS = [
     ("Frontend", ["vue", "react", "tailwind", "bootstrap", "vite"]),
-    ("Backend", ["laravel", "php", "fastapi", "python", "spring", "nginx"]),
+    ("Backend", ["laravel", "fastapi", "nginx"]),
     ("Database", ["mysql", "postgres", "redis",
                   "https://go-skill-icons.vercel.app/api/icons?theme=dark&i=sqlserver"]),
     ("Tools", ["git", "github", "docker", "linux", "vscode", "postman",
