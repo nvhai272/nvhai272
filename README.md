@@ -5,7 +5,7 @@
 
 <!-- ============ WHOAMI ============ -->
 <p align="center">
-  <img width="100%" src="./assets/whoami.svg?v=2" alt="whoami" />
+  <img width="100%" src="./assets/whoami.svg?v=3" alt="whoami" />
 </p>
 
 <!-- ============ LINKS ============ -->
