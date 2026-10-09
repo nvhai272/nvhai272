@@ -3,13 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=hai%40github%3A~%24+echo+%22Xin+ch%C3%A0o!+I'm+H%E1%BA%A3i+%F0%9F%91%8B%22;Fullstack+Developer+%7C+Laravel+%C2%B7+Vue+%C2%B7+FastAPI+%C2%B7+React;If+you're+not+good+enough%2C+you+have+to+work+harder" alt="Typing SVG" />
 </p>
 
-<!-- ============ CONTRIBUTIONS ============ -->
-<h3 align="center"><code>hai@github:~$ ./contributions.sh</code></h3>
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/nvhai272/nvhai272/output/github-contribution-grid-snake-dark.svg" alt="Contribution grid" />
-</p>
-
 <!-- ============ WHOAMI ============ -->
 <h3 align="center"><code>hai@github:~$ whoami</code></h3>
 
