@@ -11,8 +11,6 @@
 </p>
 
 <!-- ============ LINKS ============ -->
-<h3 align="center"><code>nvhai272@github:~$ ./links.sh</code></h3>
-
 <p align="center">
   <a href="https://nvhai272.github.io"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=39d353" /></a>
   <a href="https://github.com/nvhai272"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39d353" /></a>
