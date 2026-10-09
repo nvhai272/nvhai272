@@ -7,7 +7,7 @@
 <h3 align="center"><code>nvhai272@github:~$ whoami</code></h3>
 
 <p align="center">
-  <img width="100%" src="./assets/whoami.svg" alt="whoami" />
+  <img width="100%" src="./assets/whoami.svg?v=2" alt="whoami" />
 </p>
 
 <!-- ============ LINKS ============ -->
