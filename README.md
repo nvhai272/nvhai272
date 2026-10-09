@@ -7,7 +7,7 @@
 <h3 align="center"><code>hai@github:~$ ./contributions.sh</code></h3>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nvhai272&bg_color=0d1117&color=c9d1d9&line=39d353&point=ffffff&area=true&area_color=39d353&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/nvhai272/nvhai272/output/github-contribution-grid-snake-dark.svg" alt="Contribution grid" />
 </p>
 
 <!-- ============ WHOAMI ============ -->
