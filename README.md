@@ -11,7 +11,6 @@
 </p>
 
 <!-- ============ STACK ============ -->
-<h3 align="center"><code>nvhai272@github:~$ cat stack.txt</code></h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,react,tailwind,bootstrap,vite&theme=dark" /><br/>
